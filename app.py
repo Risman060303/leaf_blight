@@ -7,7 +7,7 @@ from utils.model import model_deployment
 import streamlit as st
 
 # Membuat judul
-st.title("Test Aplikasi")
+st.title("Aplikasi Untuk Klasifikasi Hawar Daun")
 
 # membuat class names
 class_names =  ['Daun Sehat', 'Hama', 'Hawar Daun', 'bukan daun']
